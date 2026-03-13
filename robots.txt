@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /digital-marketing/
-Disallow: /digital-marketing/404.html
-
-Sitemap: https://navghare4217-boop.github.io/digital-marketing/sitemap.xml
